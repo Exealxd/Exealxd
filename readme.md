@@ -1,1 +1,1 @@
-![Toady's GitHub stats](https://github-readme-stats.vercel.app/api?username=Toady&show_icons=true&theme=radical)
+![Toady's GitHub stats](https://github-readme-stats.vercel.app/api?username=Toadyxd&show_icons=true&theme=radical)
